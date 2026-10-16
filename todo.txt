@@ -1,0 +1,17 @@
+# SERVER
+ROUTES:
+- friend requests
+- friends list
+
+WS:
+- authenticated connection
+- 1 to 1 messaging
+
+# CLIENTSIDE
+PAGES:
+- form for logging in/register
+- homepage
+
+UI:
+- online/offline indicators
+- set status + profile picture
